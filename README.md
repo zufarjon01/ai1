@@ -1,2 +1,2 @@
-# ai1
-ai1
+# model-ai
+this is model ai
